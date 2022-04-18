@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0DE-PARR0T
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & (trying to) learn Java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ???
 
